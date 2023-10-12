@@ -1,0 +1,41 @@
+
+/* universal style */
+body{
+    background-color: rgb(227, 241, 247);
+    padding: 70px;
+}
+/* Heading style for h1 and image tag */
+h1{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+img{
+    max-width: 40%;
+    max-height: 5%;
+    width: 30%;
+    border: 3px solid red;
+    border-radius: 5%;
+}
+/* maain tag styling */
+
+h3{
+    color: rgb(49, 46, 46);
+    font-style: italic;
+}
+
+p{
+    color: rgb(9, 9, 9);
+}
+
+
+
+footer{
+    padding: 70px;
+    text-align: center;   
+    font-size: 12px;
+    font-weight: 900;
+}
+
+
+
